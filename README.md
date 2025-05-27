@@ -19,7 +19,7 @@ A comprehensive Python project for analyzing sales data, understanding customer 
   - matplotlib
   - seaborn
   - scikit-learn
-hhhhh
+hhhhhhkkk
 ## Installation
 
 1. Clone this repository or download the files
